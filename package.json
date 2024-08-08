@@ -4,7 +4,8 @@
   "description": "teams allocation app",
   "main": "app.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm start",
+    "build": "npm run build"
   },
   "author": "aditya",
   "license": "ISC",
