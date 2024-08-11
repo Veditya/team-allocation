@@ -1,7 +1,7 @@
 {
   "name": "team-app",
   "version": "1.0.0",
-  "description": "teams allocation app",
+  "description": "Teams allocation app",
   "main": "app.js",
   "scripts": {
     "test": "npm start",
